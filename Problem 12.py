@@ -12,5 +12,4 @@ while(len(multiples) <= 500):
             multiples.add(i)
             multiples.add(sum/i)
         i+=1
-
-
+print(len(multiples))
